@@ -1,0 +1,1 @@
+This folder contain projects on sorting alorithm Efficient sorting is important for optimizing the efficiency of other algorithms (such as search and merge algorithms) that require input data to be in sorted lists. Best, worst, and average cases of a given algorithm express what the resource usage is at least, at most and on average, respectively. 
